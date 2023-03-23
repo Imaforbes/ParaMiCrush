@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Mycrushh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8247BE88F2944B58A851BC96FED489D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55ABC17E2BB243F29F9158E162FD40FE }}
           package: .
